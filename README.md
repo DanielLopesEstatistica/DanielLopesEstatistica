@@ -40,11 +40,11 @@ Features de playlists + análise de componentes principais (R e Python).
 </td>
 <td width="50%">
 
-### [Séries temporais (ME607)](https://github.com/DanielLopesEstatistica/series-temporais-me607)
-ARIMA, GARCH e dashboard Shiny para mercado financeiro.
+### [Mandelbrot](https://github.com/DanielLopesEstatistica/mandelbrot)
+Conjunto de Mandelbrot e visualização em R.
 
-<a href="https://github.com/DanielLopesEstatistica/series-temporais-me607">
-  <img src="https://raw.githubusercontent.com/DanielLopesEstatistica/series-temporais-me607/main/docs/preview.png" width="100%" alt="Séries temporais" />
+<a href="https://github.com/DanielLopesEstatistica/mandelbrot">
+  <img src="https://raw.githubusercontent.com/DanielLopesEstatistica/mandelbrot/main/Rplot.png" width="100%" alt="Mandelbrot" />
 </a>
 
 </td>
@@ -93,16 +93,36 @@ IA minimax em R — projeto interativo e didático.
 
 </td>
 </tr>
+<tr>
+<td width="50%">
+
+### [Roubos em São Paulo](https://github.com/DanielLopesEstatistica/Roubos-em-Sao-Paulo)
+Mapa interativo na região metropolitana · [ver online](https://daniellopesestatistica.github.io/Roubos-em-Sao-Paulo/).
+
+<a href="https://github.com/DanielLopesEstatistica/Roubos-em-Sao-Paulo">
+  <img src="https://raw.githubusercontent.com/DanielLopesEstatistica/DanielLopesEstatistica/main/assets/roubos-sp.png" width="100%" alt="Roubos em São Paulo" />
+</a>
+
+</td>
+<td width="50%">
+
+### [Spotify Playlist Mixer](https://github.com/DanielLopesEstatistica/Spotify-Playlist-Mixer)
+Mistura de playlists com a API oficial do Spotify (Python).
+
+<a href="https://github.com/DanielLopesEstatistica/Spotify-Playlist-Mixer">
+  <img src="https://raw.githubusercontent.com/DanielLopesEstatistica/DanielLopesEstatistica/main/assets/spotify-playlist-mixer.png" width="100%" alt="Spotify Playlist Mixer" />
+</a>
+
+</td>
+</tr>
 </table>
 
 ## Outros repositórios públicos que vale explorar
 
 | | Projeto | Ideia |
 |---|---------|--------|
-| 🗺️ | [Roubos em São Paulo](https://github.com/DanielLopesEstatistica/Roubos-em-Sao-Paulo) | Mapa interativo |
-| 🎨 | [Mandelbrot](https://github.com/DanielLopesEstatistica/mandelbrot) | Fractais |
+| 📈 | [Séries temporais (ME607)](https://github.com/DanielLopesEstatistica/series-temporais-me607) | ARIMA, GARCH e Shiny |
 | 🧠 | [Attractiveness Recognizer](https://github.com/DanielLopesEstatistica/Attractiveness-Recognizer) | Redes neurais (CelebA) |
-| 🎵 | [Spotify Playlist Mixer](https://github.com/DanielLopesEstatistica/Spotify-Playlist-Mixer) | API oficial Spotify |
 | 📊 | [Demografia](https://github.com/DanielLopesEstatistica/demografia) | Tábuas de vida |
 | 💣 | [Minesweeper](https://github.com/DanielLopesEstatistica/minesweeper) | Campo minado |
 
