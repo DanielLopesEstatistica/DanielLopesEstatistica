@@ -11,12 +11,6 @@ Projetos abaixo com visuais e código reproduzível
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DanielLopesEstatistica&show_icons=true&theme=tokyonight&hide_border=true&count_private=false" height="165" alt="Estatísticas do GitHub" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielLopesEstatistica&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" alt="Linguagens mais usadas" />
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Shiny-2895AF?style=for-the-badge&logo=rstudio&logoColor=white" alt="Shiny" />
