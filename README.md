@@ -4,7 +4,7 @@
 
 **Estatística · ciência de dados · R · Python · Shiny**
 
-[LinkedIn](https://www.linkedin.com/) · Projetos abaixo com visuais e código reproduzível
+Projetos abaixo com visuais e código reproduzível
 
 </div>
 
